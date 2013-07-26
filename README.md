@@ -10,9 +10,10 @@ So I download the portable Sublime Text 3 and setup the once and then I could pu
 
 Just for personal use.
 
-It now include Following plugins
+It now include following plugins
+================================
 
-Package Control
-DocBlockr
-Emmet
-ABAP syntax
+- Package Control
+- DocBlockr
+- Emmet
+- ABAP syntax
