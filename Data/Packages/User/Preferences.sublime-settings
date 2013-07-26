@@ -1,0 +1,10 @@
+{
+	"font_size": 11,
+	"font_face": "Source Code Pro",
+	"highlight_line": true,
+	// Set to false to not highlight curly brackets. This only takes effect if
+  // match_brackets is true
+  "match_brackets_braces": true,
+  "tab_size":2,
+  "spell_check": true
+}
